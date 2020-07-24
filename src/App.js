@@ -19,7 +19,6 @@ export default function App() {
           {/*{[...Array(numbersOfCounters).keys()].map(element => <Counter/>)}*/}
           <div>
               <button onClick={addCounter}>Add counter</button>
-
           </div>
       </div>
   );
